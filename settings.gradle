@@ -1,0 +1,3 @@
+include ':architechture'
+include ':app'
+rootProject.name = "Jetpack-MVVM-Architecture"
